@@ -1,0 +1,3 @@
+controlled6DoFMotion.C
+
+LIB = $(FOAM_USER_LIBBIN)/libcontrolled6DoFMotion
